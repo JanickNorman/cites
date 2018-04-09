@@ -15,6 +15,7 @@ class UserTest extends TestCase
      */
     public function testExample()
     {
+      //tes tambah comment
         $this->assertTrue(true);
     }
 }
